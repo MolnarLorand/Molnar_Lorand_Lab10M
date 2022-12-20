@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Molnar_Lorand_Lab10M": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5202;https://localhost:7155"
+    }
+  }
+}
